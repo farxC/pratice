@@ -1,0 +1,17 @@
+
+
+Utilizando Python fazer uma tela onde o usuário pode registrar seu log de treinos, fazer o comparativo entre semanas anteriores e conseguir calcular seu RM.
+O usuário pode pré definir seu treinamento e quantas vezes treina na semana.
+
+
+Att/ Definido uma segunda tela onde o usuário pode registrar seus dados.
+
+Na terceira tela será criado uma tabela que irá fazer o cálculo comparativo
+
+
+
+
+Att/ Utilizando o proprio tkinter irei criar uma tabela pelos dados passados pelo usuário, assim o mesmo irá seguir em uma tela com várias semanas(ou na primeira tentativa apenas uma)
+logo irá registar, irei vincular a um BD (MYSQL) e a partir disso utilizarei o plotly para o auxilio da análise de dados.
+
+# USAR FUNÇÃO PARA MULTIPLAS TABELAS 
