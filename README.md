@@ -1,2 +1,2 @@
-"#My pratice coding" 
-"C¢digos de qualquer jeito que eu mesmo fiz." 
+My Pratice code
+This repository only contains python's code to study
